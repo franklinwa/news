@@ -1,3 +1,3 @@
 # file_creat
-自动建立微信文件
+自动建立新闻类微信文件
 微信号;weiwensudi
